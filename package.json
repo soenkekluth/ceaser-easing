@@ -1,0 +1,27 @@
+{
+  "name": "ceaser-easing",
+  "version": "1.0.0",
+  "description": "sass variables for CSS3 easing equations Edit",
+  "main": "./ceaser-easings.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soenkekluth/ceaser-easing.git"
+  },
+  "keywords": [
+    "css",
+    "ease",
+    "easing",
+    "equation",
+    "animation",
+    "transition"
+  ],
+  "author": "Sönke Kluth <soenke.kluth@gmail.com> (http://soenkekluth.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soenkekluth/ceaser-easing/issues"
+  },
+  "homepage": "https://github.com/soenkekluth/ceaser-easing#readme"
+}
