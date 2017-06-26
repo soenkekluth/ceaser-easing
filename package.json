@@ -1,8 +1,9 @@
 {
   "name": "ceaser-easing",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "sass variables for CSS3 easing equations Edit",
   "main": "./ceaser-easings.scss",
+  "style": "./ceaser-easings.scss",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

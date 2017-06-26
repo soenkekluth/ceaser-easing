@@ -1,5 +1,5 @@
 
- // Linear
+// Linear
 $linear         : cubic-bezier(0.250, 0.250, 0.750, 0.750);
 
 // Ease (defaults)
@@ -48,3 +48,38 @@ $easeInOutSine  : cubic-bezier(0.445, 0.050, 0.550, 0.950);
 $easeInBack     : cubic-bezier(0.600, -0.280, 0.735, 0.045);
 $easeOutBack    : cubic-bezier(0.175,  0.885, 0.320, 1.275);
 $easeInOutBack  : cubic-bezier(0.680, -0.550, 0.265, 1.550);
+
+
+// aliases
+
+$cubicIn : $easeInCubic;
+$cubicOut : $easeOutCubic;
+$cubicInOut : $easeInOutCubic;
+
+$circIn : $easeInCirc;
+$circOut : $easeOutCirc;
+$circInOut : $easeInOutCirc;
+
+$expoIn : $easeInExpo;
+$expoOut : $easeOutExpo;
+$expoInOut : $easeInOutExpo;
+
+$quadIn : $easeInQuad;
+$quadOut : $easeOutQuad;
+$quadInOut : $easeInOutQuad;
+
+$quartIn : $easeInQuart;
+$quartOut : $easeOutQuart;
+$quartInOut : $easeInOutQuart;
+
+$quintIn : $easeInQuint;
+$quintOut : $easeOutQuint;
+$quintInOut : $easeInOutQuint;
+
+$sineIn : $easeInSine;
+$sineOut : $easeOutSine;
+$sineInOut : $easeInOutSine;
+
+$backIn : $easeInBack;
+$backOut : $easeOutBack;
+$backInOut : $easeInOutBack;
