@@ -1,4 +1,6 @@
 # ceaser-easing
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/soenkekluth/ceaser-easing.svg)](https://greenkeeper.io/)
 sass variables for CSS3 easing equations
 
 
